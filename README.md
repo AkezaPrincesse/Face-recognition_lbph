@@ -20,8 +20,8 @@ face_recognition_mediapipe_lbph/
 ├── train.py                # Build the LBPH recognition model
 ├── predict.py              # Run real-time face recognition
 ├── dataset/                # Collected images go here
-│   ├── Kellia/
-│   └── Love/
+│   ├── Princesse/
+│   └── Benitha/
 ├── models/
 │   ├── lbph_model.xml      # Saved LBPH model
 │   └── label_map.json      # Name-to-ID mapping
